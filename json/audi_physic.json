@@ -1,0 +1,42 @@
+	{ 
+		
+		"audi_bez_kol_scaled": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   213, 55  ,  215, 33  ,  236, 43  ,  239.5, 71.5  ,  226, 74.5  ,  214.5, 75.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   4, 69  ,  -0.5, 60  ,  3.5, 32  ,  35, 4.5  ,  25.5, 52.5  ,  18, 70  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   196, 47.5  ,  172, 25.5  ,  215, 33  ,  213, 55  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   180.5, 55  ,  89, 1.5  ,  133, 4.5  ,  172, 25.5  ,  196, 47.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   89, 1.5  ,  39, 49.5  ,  25.5, 52.5  ,  35, 4.5  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   176, 74.5  ,  58.5, 73.5  ,  54.5, 54.5  ,  89, 1.5  ,  180.5, 55  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   39, 49.5  ,  89, 1.5  ,  54.5, 54.5  ]
+				}  
+		]
+		
+	}
